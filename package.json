@@ -1,0 +1,28 @@
+{
+  "name": "shoping-cart",
+  "version": "1.0.0",
+  "description": "E-commerce-Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patilpriyas/Shoping-cart.git"
+  },
+  "author": "Priyanka Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patilpriyas/Shoping-cart/issues"
+  },
+  "homepage": "https://github.com/patilpriyas/Shoping-cart#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1141.0",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.4",
+    "multer": "^1.4.4"
+  }
+}
